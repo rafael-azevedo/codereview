@@ -1,0 +1,25 @@
+# Code Review Exercise - Pull Request Review
+
+## Context
+One of your team members has submitted this PR for a new service that manages user provisioning across our OpenShift clusters and AWS accounts.
+
+## Your Role
+You're the senior engineer doing the code review before this gets merged to main.
+
+## Review Focus
+Look at this code the way you'd review any teammate's PR. Consider:
+- Go best practices and idioms
+- Architecture and design patterns
+
+## Format
+Go through the code as you normally would in a PR review. Point out issues, suggest improvements, ask clarifying questions, and decide if you'd approve this for merge or request changes.
+
+## Time Guidelines
+- **Total Time**: ~15 minutes
+- **Review Process**: 5-6 minutes skimming and questions
+- **Scope**: Focus on pseudo code/logical process
+
+## Important Notes
+- Code doesn't need to compile
+- There are limitless problems - we're not going to address them all
+- We don't need to fix everything or pick up every issue
